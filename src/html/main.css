@@ -174,7 +174,7 @@ body {
   text-align: center;
   font-family: Orbitron, sans-serif;
   font-weight: 500;
-  font-size: 12rem;
+  font-size: 5rem;
   line-height: 132px;
   animation: lol 6s infinite;
   letter-spacing: 0.28em;
@@ -430,7 +430,7 @@ body {
   z-index: 1000;
   margin: 0.5rem;
   font-family: "Exo", sans-serif;
-  font-size: 2rem;
+  font-size: 1rem;
 
 }
 .lds-hourglass {
